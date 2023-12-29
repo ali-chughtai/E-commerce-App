@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301183338895",
+    "project_id": "aliauth-d2a9b",
+    "storage_bucket": "aliauth-d2a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301183338895:android:a2a35659064dfae0c3a3fa",
+        "android_client_info": {
+          "package_name": "com.drawernavgiationtablab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fduq4cZzx0pBnfxPmEVFwJ_PRAvu928"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
